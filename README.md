@@ -8,5 +8,5 @@ Converts any file format to pdf using a2ps and ps2pdf. Saves pdf in the current 
    ( Install if unavailable )
 
 ### Example Usage
- To print matlab codes in a directory run following.
-./crawler_code2pdf.sh /path/to/dir .m
+ To print matlab (.m) codes in a directory run following.
+./crawler_code2pdf.sh /path/to/dir    .m
