@@ -1,4 +1,4 @@
-### code2pdf
+### Convert Code to PDF (code2pdf)
 Converts any file format to pdf using a2ps and ps2pdf. Saves pdf in the current dir of .sh file. (Only for Unix/Linux)
 ### Usage:
  crawler_code2pdf dir .extention
@@ -7,6 +7,6 @@ Converts any file format to pdf using a2ps and ps2pdf. Saves pdf in the current 
    ps2pdf
    ( Install if unavailable )
 
-### Example Usage
+### Example:
  To print matlab (.m) codes in a directory run following.
  ##### ./crawler_code2pdf.sh < space > /path/to/dir < space > .m
